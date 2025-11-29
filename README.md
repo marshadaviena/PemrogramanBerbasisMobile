@@ -1,5 +1,5 @@
-"# Pemrograman Berbasis Mobile" 
-"## Kumpulan Project Mata Kuliah" 
-"**Nama**: Marsha Daviena Zalyadieza A  " 
-"**NIM**: 2310631170030  " 
-"**Kelas**: 5F" 
+Pemrograman Berbasis Mobile
+Kumpulan Project Mata Kuliah
+Nama: Marsha Daviena Zalyadieza A
+NIM: 2310631170030
+Kelas: 5F 
